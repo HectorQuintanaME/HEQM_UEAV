@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(96, 153, 158);
+    font-size: 50px;
+    font-family: fantasy;
+    font-style: oblique;  
+}
+
+h1{
+    color: rgba(72, 27, 37, 0.824);
+    background-color: rgb(159, 98, 51);
+    text-align: center;
+    font-size: 50px;
+}
+
