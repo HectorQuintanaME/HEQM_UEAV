@@ -1,0 +1,28 @@
+body{background-color: rgb(76, 24, 123);
+    color: goldenrod;
+    font-size: 50px;
+}
+
+h1{
+    color: #ffd500;
+}
+
+
+p{
+    color: chocolate;
+}
+
+div{
+    background-color: rgb(123, 95, 160);
+    padding: 20px;
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(224, 203, 66);
+    margin: 150px;
+    border-radius: 20px;
+}
+
+img{
+    border-radius: 50px;
+     
+}
