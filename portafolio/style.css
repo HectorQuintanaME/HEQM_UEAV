@@ -1,15 +1,16 @@
-body{background-color: rgb(76, 24, 123);
-    color: goldenrod;
+body{
+    background-color: #9999ff;
+    color: rgb(157, 19, 19);
     font-size: 50px;
 }
 
 h1{
-    color: #ffd500;
+    color: #0000b3;
 }
 
 
 p{
-    color: chocolate;
+    color: rgb(46, 13, 101);
 }
 
 div{
@@ -22,7 +23,10 @@ div{
     border-radius: 20px;
 }
 
-img{
+a{
+    color: rgb(88, 212, 136);
+}
+
+.imgRound{
     border-radius: 50px;
-     
 }
