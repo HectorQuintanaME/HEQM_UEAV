@@ -5,7 +5,9 @@ body{
 }
 
 h1{
-    color: #0000b3;
+    color: #ab4bbb;
+    font-size: 150px;
+    background-color: rgb(77, 16, 87);
 }
 
 
@@ -18,7 +20,7 @@ div{
     padding: 20px;
     border-style: double;
     border-width: 10px;
-    border-color: rgb(224, 203, 66);
+    border-color: rgb(72, 214, 77);
     margin: 150px;
     border-radius: 20px;
 }
@@ -30,3 +32,14 @@ a{
 .imgRound{
     border-radius: 50px;
 }
+
+.fotos{
+    background-color: #660033;
+    border-style: none;
+    /* margin: 0%;
+    padding: 0%; */
+    justify-content: center;
+    border-radius: 15px;
+}
+
+
