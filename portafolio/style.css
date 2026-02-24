@@ -1,5 +1,5 @@
 body{
-    background-color: #9999ff;
+    background-color: #331c47;
     color: rgb(157, 19, 19);
     font-size: 50px;
 }
@@ -12,7 +12,7 @@ h1{
 
 
 p{
-    color: rgb(46, 13, 101);
+    color: rgb(26, 126, 142);
 }
 
 div{
@@ -20,13 +20,13 @@ div{
     padding: 20px;
     border-style: double;
     border-width: 10px;
-    border-color: rgb(72, 214, 77);
+    border-color: rgb(72, 157, 214);
     margin: 150px;
     border-radius: 20px;
 }
 
 a{
-    color: rgb(88, 212, 136);
+    color: rgb(88, 160, 212);
 }
 
 .imgRound{
@@ -41,5 +41,14 @@ a{
     justify-content: center;
     border-radius: 15px;
 }
+
+.divGral{
+    background-color: #331c47;
+    border-style: none;
+    /* display: flex;
+  justify-content: center; */
+  margin: 0%;
+}
+
 
 
