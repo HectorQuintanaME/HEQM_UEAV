@@ -8,11 +8,12 @@ h1{
     color: #ab4bbb;
     font-size: 150px;
     background-color: rgb(77, 16, 87);
+    text-align: center;
 }
 
 
 p{
-    color: rgb(26, 126, 142);
+    color: rgb(107, 164, 173);
 }
 
 div{
@@ -26,6 +27,7 @@ div{
 }
 
 a{
+    text-align: center;
     color: rgb(88, 160, 212);
 }
 
