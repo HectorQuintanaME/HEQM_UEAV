@@ -1,0 +1,55 @@
+body{
+    background-color: 	#91bcc5;
+    padding: 10px;
+    text-align: center;
+    font-size: 150%;
+}
+
+header{
+    background-color: #7e6993;
+    padding: 10px;
+}
+
+nav{
+    background-color: 	#88a985;
+    padding: 10px;
+}
+
+div{
+    background-color: #637898;
+    padding: 10px;
+}
+
+footer{
+    background-color: 	#894848;
+    padding: 10px;
+}
+
+.fa{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-github{
+    color: #663994;
+}
+
+.fa-facebook{
+    color: #315c9d;
+}
+
+.fa-instagram{
+    color: rgb(175, 37, 90);
+}
+
+.fa:hover{
+    opacity: 0.5;
+}
+
+.divrs{
+    background-color: rgb(154, 138, 23);
+}
